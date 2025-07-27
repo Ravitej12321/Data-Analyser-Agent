@@ -24,7 +24,7 @@ This project demonstrates how to build a **Data Analyzer Agent** using the **Aut
 ---
 
 ## ✅ Project Structure
-'''
+```
 data-analyzer-agent/
 │
 ├── Config/
@@ -45,7 +45,7 @@ data-analyzer-agent/
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
 
-'''
+```
 Create the .env file and store the gemini_api_key with variable as: "GEMINI_KEY"
 
 
