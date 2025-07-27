@@ -88,6 +88,7 @@ Features in UI:
 ---
 
 ✅ Future Enhancements
+
 ✅ Multi-agent collaboration for advanced analytics.
 
 ✅ Real-time data processing.
