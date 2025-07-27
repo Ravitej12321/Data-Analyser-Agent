@@ -81,7 +81,7 @@ if task:
         img_path = os.path.join(directory, img_file)
         st.write(f"**{img_file}**")
         image = Image.open(img_path)
-        st.image(image, caption=img_file, use_column_width=True)
+        st.image(image, caption=img_file, use_container_width=True)
     if error:
         st.error("An Exception Occured: ",error)
 else: 
