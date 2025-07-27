@@ -83,6 +83,12 @@ Features in UI:
 * Generate summaries and charts.
 
 * Ask natural language questions.
+## Screenshots
+Generated Heatmap using the dataset
+![Streamlit UI](Screenshots/Generated_heatmap.png)
+
+User Input Image
+![Streamlit UI](Screenshots/User_input.png)
 
 ## Example Queries:
 "Can you tell me how many rows are there  in the dataset"
