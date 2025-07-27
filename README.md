@@ -91,10 +91,9 @@ User Input Image
 ![Streamlit UI](Screenshots/User_input.png)
 
 ## Example Queries:
-"Can you tell me how many rows are there  in the dataset"
-"Can you draw a graph for people lived vs died from my dataset in the directory and save it as Output.png"
-"" Perform complete data analysis and give me the useful insights \
-    and store all the graphs analysis output_images_with timestamp in analysis folder""
+1. "Can you tell me how many rows are there  in the dataset"
+2. "Can you draw a graph for people lived vs died from my dataset in the directory and save it as Output.png"
+3. "Perform complete data analysis and give me the useful insights and store all the graphs analysis output_images_with timestamp in analysis folder"
 
 ---
 
