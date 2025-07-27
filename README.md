@@ -44,8 +44,13 @@ data-analyzer-agent/
 ├── .env  # storing the api keys
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
+<<<<<<< HEAD
 ```
 
+=======
+
+```
+>>>>>>> 23d1d3db1d5143e2b06293247dec2f0fa2d28890
 Create the .env file and store the gemini_api_key with variable as: "GEMINI_KEY"
 
 
@@ -64,7 +69,7 @@ source .venv/bin/activate   # (Linux/Mac)
 
 ## installing the requirements.
 
-pip install -r requirements.txt
+uv add -r requirements.txt
 
 ## Run the team using UI.
 python streamlit run streamlit_app.py
@@ -88,6 +93,7 @@ Features in UI:
 ---
 
 ✅ Future Enhancements
+
 ✅ Multi-agent collaboration for advanced analytics.
 
 ✅ Real-time data processing.
