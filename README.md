@@ -64,7 +64,7 @@ source .venv/bin/activate   # (Linux/Mac)
 
 ## installing the requirements.
 
-pip install -r requirements.txt
+uv add -r requirements.txt
 
 ## Run the team using UI.
 python streamlit run streamlit_app.py
